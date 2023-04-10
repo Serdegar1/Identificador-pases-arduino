@@ -55,7 +55,7 @@ void loop() {
     
 
       /*a
-        PARSEA UID PkARA IMPRIMIR , ESTO LO QUITARE
+        PARSEA UID PARA IMPRIMIR , ESTO LO QUITARE
       */
 
     Serial.print("UID:");				// muestra texto UID:
