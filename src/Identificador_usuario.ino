@@ -54,7 +54,7 @@ void loop() {
     return;						                
     
 
-      /*
+      /*a
         PARSEA UID PARA IMPRIMIR , ESTO LO QUITARE
       */
 
